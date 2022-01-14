@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data Science, Python, SQL
 - 🌱 I’m currently learning API, Microserives
 - 👯 I’m looking to collaborate on Data Science, Natural Language Processing
-- 🤔 I’m looking for help with API, Microservices and Machine Learning 
-
-
+- 🤔 I’m looking for help with API, Microservices and Machine Learning
+- 🤔 I’m looking for help with solving complex problems
+- 💬 Ask me about Python, Machine Learning, Data Science
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/garimazthakur/), [Portfolio](https://garimazthakur.github.io)
